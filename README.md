@@ -1,5 +1,4 @@
-# Grafkom-P1-K14
-# Chick
+# Grafkom-P1-K14 Chick
 Projek game mata kuliah Grafika Komputer (KOM300)
 
 ### Pembagian Roles
