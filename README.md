@@ -41,6 +41,8 @@ Ayam yang pergi mencari makan (beras) harus kembali dengan selamat hingga akhir 
   - Karakter ayam 
      > anak ayam kecil = https://opengameart.org/node/76895
      > anak ayam besar = https://opengameart.org/node/83296
+     ![chicken](https://user-images.githubusercontent.com/65218108/103667903-14aecf00-4fa9-11eb-9811-3f443e130449.jpg)
+
   - background, tiles, water = https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838 
   - beras = https://opengameart.org/content/2d-cereals
   - snake = https://opengameart.org/content/lpc-snake 
