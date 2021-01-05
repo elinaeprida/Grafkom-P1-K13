@@ -15,8 +15,11 @@ Ada sebutir telur yang baru saja menetas. Lalu keluarlah seekor anak ayam yang l
 * Pada 1 level, ayam memiliki 4 nyawa
 * Ayam bisa melompat
 * Ayam harus mencari beras, dan akan mendapatkan poin 
-* Ayam harus menghindari air, jika terjatuh ke air maka nyawa akan berkurang
+![beras level 1](https://user-images.githubusercontent.com/65218108/103669898-7e2fdd00-4fab-11eb-82b6-e1be904e7560.jpg)
+* Ayam harus menghindari air, jika terjatuh ke air maka akan mengulang dari awal level tersebut
+![kena air](https://user-images.githubusercontent.com/65218108/103669878-7839fc00-4fab-11eb-8c9d-ea83dcbcedea.jpg)
 * Ayam harus menghindari ular, jika terkena ular maka nyawa ayam akan berkurang
+![kena uler](https://user-images.githubusercontent.com/65218108/103670014-a4ee1380-4fab-11eb-8999-b576c01f10b9.jpg)
 * Ular bergerak patroli bolak-balik di tanah yang tersedia
 
 ### Goals
