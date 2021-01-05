@@ -17,6 +17,7 @@ Ada sebutir telur yang baru saja menetas. Lalu keluarlah seekor anak ayam yang l
 * Ayam harus mencari beras, dan akan mendapatkan poin 
 * Ayam harus menghindari air, jika terjatuh ke air maka nyawa akan berkurang
 * Ayam harus menghindari ular, jika terkena ular maka nyawa ayam akan berkurang
+* Ular bergerak patroli bolak-balik di tanah yang tersedia
 
 ### Goals
 Ayam yang pergi mencari makan (beras) harus kembali dengan selamat hingga akhir level. 
