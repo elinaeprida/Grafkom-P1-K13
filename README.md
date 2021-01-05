@@ -61,6 +61,10 @@ Ayam yang pergi mencari makan (beras) harus kembali dengan selamat hingga akhir 
 
 ### Github 
   - Dokumentasi projek
+  ![main menu](https://user-images.githubusercontent.com/65218108/103671309-53468880-4fad-11eb-9ec4-8ae37e3fb315.jpg)
+  ![level1](https://user-images.githubusercontent.com/65218108/103671904-2050c480-4fae-11eb-83c7-36d2eca3a335.jpg)
+  ![level2](https://user-images.githubusercontent.com/65218108/103672130-745ba900-4fae-11eb-9e6e-fbdce0893920.jpg)
+  ![level 3](https://user-images.githubusercontent.com/65218108/103671962-33fc2b00-4fae-11eb-95c3-8dbb8921fdf0.jpg)
   
   
 PPT Progess Report 
