@@ -45,5 +45,10 @@ Ayam yang pergi mencari makan (beras) harus kembali dengan selamat hingga akhir 
   - health bar = https://github.com/Brackeys/Health-Bar/blob/master/Health%20Bar/Assets/Sprites/Bar.png
   - heart health bar = https://github.com/Brackeys/Health-Bar/blob/master/Health%20Bar/Assets/Sprites/Heart.png
 
+### Bahasa C#
+  - Bahasa Pemograman
+
+### Github 
+  - Dokumentasi projek
 PPT Progess Report 
 https://docs.google.com/presentation/d/1A55cbcfMGG0Xtc6YNOpL-yzEISIchdu1/edit#slide=id.p1
