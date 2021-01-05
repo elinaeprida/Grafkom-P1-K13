@@ -35,6 +35,13 @@ Ayam yang pergi mencari makan (beras) harus kembali dengan selamat hingga akhir 
 * Game berbentuk 2D
 * Visual Studio + GEdit
   - Sebagai Teks editor
+* Assets
+  - Karakter ayam 
+     > anak ayam kecil = https://opengameart.org/node/76895
+     > anak ayam besar = https://opengameart.org/node/83296
+  - background, tiles, water = https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838 
+  - beras = https://opengameart.org/content/2d-cereals
+  - snake = https://opengameart.org/content/lpc-snake 
 
 PPT Progess Report 
 https://docs.google.com/presentation/d/1A55cbcfMGG0Xtc6YNOpL-yzEISIchdu1/edit#slide=id.p1
