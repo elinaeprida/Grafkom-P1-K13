@@ -21,10 +21,10 @@ Ada sebutir telur yang baru saja menetas. Lalu keluarlah seekor anak ayam yang l
 ### Goals
 Ayam yang pergi mencari makan (beras) harus kembali dengan selamat hingga akhir level. 
 
-### Actions
-* Jump
-* Arrow kanan (jalan maju)
-* Arrow kiri (jalan belakang)
+### Actions (keyboard interactions)
+* Space => lompat
+* Arrow kanan => jalan ke depan (kanan)
+* Arrow kiri => jalan ke belakang (kiri)
 
 ### Tools yang Digunakan
 * Unity Hub. 2.4.2
@@ -42,6 +42,8 @@ Ayam yang pergi mencari makan (beras) harus kembali dengan selamat hingga akhir 
   - background, tiles, water = https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838 
   - beras = https://opengameart.org/content/2d-cereals
   - snake = https://opengameart.org/content/lpc-snake 
+  - health bar = https://github.com/Brackeys/Health-Bar/blob/master/Health%20Bar/Assets/Sprites/Bar.png
+  - heart health bar = https://github.com/Brackeys/Health-Bar/blob/master/Health%20Bar/Assets/Sprites/Heart.png
 
 PPT Progess Report 
 https://docs.google.com/presentation/d/1A55cbcfMGG0Xtc6YNOpL-yzEISIchdu1/edit#slide=id.p1
