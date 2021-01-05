@@ -12,8 +12,9 @@ Projek game mata kuliah Grafika Komputer (KOM300)
 Ada sebutir telur yang baru saja menetas. Lalu keluarlah seekor anak ayam yang lucu. Karena tidak ada induknya dan kandang ayam terbuka lebar, anak ayam tersebut keluar dari kandang untuk mencari makan yaitu beras dengan melewati berbagai macam tantangan dan predator dengan tujuan akhir mencapai kandangnya kembali.
 
 ### Rules
-* Pada 1 level, ayam memiliki 4 nyawa
+* Pada setiap level, ayam memiliki 4 nyawa
 * Ayam bisa melompat
+![lompat](https://user-images.githubusercontent.com/65218108/103672414-da483080-4fae-11eb-8f9c-30badc8b5fd6.jpg)
 * Ayam harus mencari beras, dan akan mendapatkan poin 
 ![beras level 1](https://user-images.githubusercontent.com/65218108/103669898-7e2fdd00-4fab-11eb-82b6-e1be904e7560.jpg)
 * Ayam harus menghindari air, jika terjatuh ke air maka akan mengulang dari awal level tersebut
