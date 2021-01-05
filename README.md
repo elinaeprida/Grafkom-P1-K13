@@ -40,6 +40,7 @@ Ayam yang pergi mencari makan (beras) harus kembali dengan selamat hingga akhir 
 * Assets
   - Karakter ayam 
      > anak ayam kecil = https://opengameart.org/node/76895
+     ![1609861687648](https://user-images.githubusercontent.com/65218108/103668035-3f008c80-4fa9-11eb-800a-b4fc2e1108ef.jpg)
      > anak ayam besar = https://opengameart.org/node/83296
      ![chicken](https://user-images.githubusercontent.com/65218108/103667903-14aecf00-4fa9-11eb-9811-3f443e130449.jpg)
 
