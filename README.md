@@ -31,10 +31,10 @@ Ayam yang pergi mencari makan (beras) harus kembali dengan selamat hingga akhir 
 * Unity Hub. 2.4.2
   - Sebagai platform kolaborasi
   - Keunggulannya : Nice collab, gratis, open source
-* Unity Editor 2019.4.13f1 dan 2019.4.13.f1
+* Unity Editor 2019.4.13f1
   - Sebagai game editor
 * Game berbentuk 2D
-* Visual Studio + GEdit
+* Visual Studio
   - Sebagai Teks editor
 * Assets
   - Karakter ayam 
