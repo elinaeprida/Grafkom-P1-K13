@@ -11,6 +11,8 @@ Projek game mata kuliah Grafika Komputer (KOM300)
 ### Story Game
 Ada sebutir telur yang baru saja menetas. Lalu keluarlah seekor anak ayam yang lucu. Karena tidak ada induknya dan kandang ayam terbuka lebar, anak ayam tersebut keluar dari kandang untuk mencari makan yaitu beras dengan melewati berbagai macam tantangan dan predator dengan tujuan akhir mencapai kandangnya kembali.
 
+### Rules
+* Ayam harus mencari beras, dan akan mendapatkan poin 
 
 PPT Progess Report 
 https://docs.google.com/presentation/d/1A55cbcfMGG0Xtc6YNOpL-yzEISIchdu1/edit#slide=id.p1
