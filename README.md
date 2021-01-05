@@ -41,12 +41,15 @@ Ayam yang pergi mencari makan (beras) harus kembali dengan selamat hingga akhir 
   - Karakter ayam 
      > anak ayam kecil = https://opengameart.org/node/76895
      ![1609861687648](https://user-images.githubusercontent.com/65218108/103668035-3f008c80-4fa9-11eb-800a-b4fc2e1108ef.jpg)
+     
      > anak ayam besar = https://opengameart.org/node/83296
      ![chicken](https://user-images.githubusercontent.com/65218108/103667903-14aecf00-4fa9-11eb-9811-3f443e130449.jpg)
 
   - background, tiles, water = https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838 
   - beras = https://opengameart.org/content/2d-cereals
   - snake = https://opengameart.org/content/lpc-snake 
+  ![uler](https://user-images.githubusercontent.com/65218108/103668286-8be46300-4fa9-11eb-98ac-0f0f19c90149.jpg)
+
   - health bar = https://github.com/Brackeys/Health-Bar/blob/master/Health%20Bar/Assets/Sprites/Bar.png
   - heart health bar = https://github.com/Brackeys/Health-Bar/blob/master/Health%20Bar/Assets/Sprites/Heart.png
 
