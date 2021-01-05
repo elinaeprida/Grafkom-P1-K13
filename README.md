@@ -26,7 +26,7 @@ Ayam yang pergi mencari makan (beras) harus kembali dengan selamat hingga akhir 
 * Space => lompat
 * Arrow kanan => jalan ke depan (kanan)
 * Arrow kiri => jalan ke belakang (kiri)
-https://user-images.githubusercontent.com/65218108/103652333-8aa93b00-4f95-11eb-82d6-69e5858e776d.jpg
+![gambar1](https://user-images.githubusercontent.com/65218108/103652333-8aa93b00-4f95-11eb-82d6-69e5858e776d.jpg)
 
 ### Tools yang Digunakan
 * Unity Hub. 2.4.2
